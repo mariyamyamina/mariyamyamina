@@ -1,19 +1,19 @@
-- 👋 Hi, I’m @mariyamyamina
+- 👋 Hi, I’m Mariyam Yamina M
 - 👀 I’m interested in Fullstack Development (MERN Stack, EJS, MongoDB)
 - 🌱 I’m currently learning
-     Advanced JavaScript & React
-     Backend Development with Node.js & Express.js
-     MySQL & Database Optimization
-     Data Structures & Algorithms (DSA)
+     Advanced JavaScript & React,
+     Backend Development with Node.js & Express.js,
+     MySQL & Database Optimization,
+     Data Structures & Algorithms (DSA).
   
 - 💞️ I’m looking to collaborate on
-     Open Source Projects
-     Innovative Web Applications
-    Hackathons & Coding Challenges
+     Open Source Projects,
+     Innovative Web Applications,
+    Hackathons & Coding Challenges,
 
 - 📫 How to reach me
-  Email:mariyamyamina@gmail.com
-  linkedin: www.linkedin.com/in/mariyamyamina
+  Email:mariyamyamina@gmail.com,
+  linkedin: www.linkedin.com/in/mariyamyamina,
   Portfolio:https://mariyamyamina-portfolio.netlify.app/
    
 - 😄 Pronouns: She/Her
