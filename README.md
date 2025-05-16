@@ -60,7 +60,7 @@
 - ✅ [JavaScript Certification – Scaler](https://www.scaler.com/)
 - ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/)
 - ✅ [Industry 4.0 & IIoT – NPTEL (Score: 73%)](https://nptel.ac.in/)
-- ✅ [Privacy and Security in Online Social Media– NPTEL (Score: 63%)](![nptel2](https://github.com/user-attachments/assets/501f6de1-4a7b-4cb0-95f9-ec37bc19db54)
+- ✅ [Privacy and Security in Online Social Media– NPTEL (Score: 63%)](https://nptel.ac.in/)
 - ✅ [Internship at Infosmite – Full Stack Development (Node.js, MongoDB)](https://example.com)
 - ✅ [Internship at Aadhirotz – Java & MySQL](https://example.com)
 
