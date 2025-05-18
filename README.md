@@ -57,17 +57,17 @@
 
 ### 📚 Certifications
 
-- ✅ [JavaScript Certification – Scaler](https://www.scaler.com/)
-- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/)
-- ✅ [Industry 4.0 & IIoT – NPTEL (Score: 73%)](https://nptel.ac.in/)
-- ✅ [Privacy and Security in Online Social Media– NPTEL (Score: 63%)](https://nptel.ac.in/)
-- ✅ [Internship at Infosmite – Full Stack Development (Node.js, MongoDB)](https://example.com)
-- ✅ [Internship at Aadhirotz – Java & MySQL](https://example.com)
+- ✅ [JavaScript Certification – Scaler]
+- ✅ [Responsive Web Design – freeCodeCamp]
+- ✅ [Industry 4.0 & IIoT – NPTEL (Score: 73%)]
+- ✅ [Privacy and Security in Online Social Media– NPTEL (Score: 63%)]
+- ✅ [Internship at Infosmite – Full Stack Development (Node.js, MongoDB)]
+- ✅ [Internship at Aadhirotz – Java & MySQL]
 
 ---
 
 ### 📌 Featured Projects
--🌍 **Wanderlust Travel Site** – Full-stack app using Node.js, Express, MongoDB,passport.js for Authentication,REST API's and interactive UI for an immersive travel experience.
+- 🌍 **Wanderlust Travel Site** – Full-stack app using Node.js, Express, MongoDB,passport.js for Authentication,REST API's and interactive UI for an immersive travel experience.
 - 🚀 **Career Guidance Portal** – Built with MongoDB, EJS, EmailJS. Created for school students in just 4 days.
 - 📖 **Blog Website** – Full-stack app using Node.js, Express, MongoDB. Users can create/delete blogs.
 - 🎧 **Spotify Clone** – Frontend clone using HTML, CSS with responsive design and custom sliders.
