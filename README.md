@@ -13,7 +13,7 @@
 - 🌟 Currently exploring **Advanced JavaScript, React, Node.js, Express.js, MySQL, and DSA**
 - 👨‍💻 Portfolio: [**mariyamyamina-portfolio.netlify.app**](https://mariyamyamina-portfolio.netlify.app/)
 - 📧 Email: **mariyamyamina@gmail.com**
-- 📄 [**Resume**](file:///C:/Users/mariy/Downloads/Resume_Final.pdf)
+- 📄 [**Resume**](https://drive.google.com/drive/my-drive)
 - ✨ **Fun Fact:** Built a career guidance portal in just **4 days** to help students explore career paths.
 
 ---
